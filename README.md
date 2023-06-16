@@ -35,7 +35,7 @@ Completando questi esercizi, acquisirai le seguenti competenze:
 
 <h3> English 🇬🇧</h3>
 
-The first module of the C++ piscine consists of three exercises:
+The first module of the C++ piscine.
 
 <h4>Exercise 00: Megaphone</h4>
 The exercise requires creating a program that converts the received arguments to uppercase, emulating a megaphone effect.
