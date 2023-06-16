@@ -1,4 +1,4 @@
-# 42 Cpp00
+# 42 cpp00
 
 <h3> Italiano 🇮🇹</h3>
 Il primo modulo delle piscine in c++.
